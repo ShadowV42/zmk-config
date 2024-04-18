@@ -37,7 +37,7 @@
 
             display-name = "Lower";
             bindings = <
-&kp DEL     &kp C_VOLUME_DOWN  &kp UP     &kp C_VOLUME_UP  &kp LC(V)  &kp LC(C)     &kp N7        &kp N8  &kp N9        &kp KP_NUMLOCK  &bt BT_SEL 1  &kp DEL
+&kp DELETE  &kp C_VOLUME_DOWN  &kp UP     &kp C_VOLUME_UP  &kp LC(V)  &kp LC(C)     &kp N7        &kp N8  &kp N9        &kp KP_NUMLOCK  &bt BT_SEL 1  &kp DEL
 &bt BT_CLR  &kp LEFT           &kp DOWN   &kp RIGHT        &kp LG(V)  &kp LC(X)     &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp CAPSLOCK    &trans        &kp F12
 &bt BT_NXT  &kp F5             &kp LG(L)  &kp LS(DELETE)   &kp LG(X)  &kp LA(F4)    &kp N1        &kp N2  &kp N3        &kp LG(E)       &trans        &trans
                                           &kp LGUI         &trans     &kp SPACE     &kp RET       &kp N0  &kp RALT
